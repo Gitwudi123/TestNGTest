@@ -26,7 +26,7 @@ public class NewTest {
 	      calculator.add(10);
 	      calculator.substract(8);
 	      System.out.println(calculator.getResult());
-	      assertEquals(6, calculator.getResult());
+	      assertEquals(2, calculator.getResult());
 	     }
 
 	    @Test
