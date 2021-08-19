@@ -2,10 +2,9 @@ import org.testng.annotations.Test;
 
 import static org.testng.Assert.assertEquals;
 
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 
-public class NewTest {
+public class MyTest {
 
 	 private static Calculator calculator = new Calculator();
 
