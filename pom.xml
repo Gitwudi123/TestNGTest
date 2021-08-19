@@ -21,7 +21,7 @@
 			<configuration>
 			<suiteXmlFiles>
 			<!-- 配置testng.xml的相对位置 -->
-			<suiteXmlFile>src/main/resources/testng.xml</suiteXmlFile>
+			<suiteXmlFile>/testng.xml</suiteXmlFile>
 			</suiteXmlFiles>
 			</configuration>
 		</plugin>
